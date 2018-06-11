@@ -1,0 +1,236 @@
+<div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;">
+    <span class="ico-anycontent dt_icon"></span>
+    <span class="dt_module_name">Add Any Content Here</span>
+    <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+        <span style="display: block;" class="dt_delete" title="Delete"></span>
+        <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings">
+        <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+            <p>[res_map address="Yeronga QLD 4104, Australia" description="<img src="http://yava.ro/images/company.png" alt=""> {br} Yeronga QLD 4104, Australia {br} Phone: 0040 752 235 756" directionstext="(directions to our address)" icon="http://yava.ro/icons/car.png" color="classic" pancontrol="no" scalecontrol="no" typecontrol="no" streetcontrol="no" zoom="14" zoomcontrol="no" draggable="yes" scrollwheel="no" width="100%" height="500px" maptype="roadmap" popup="yes" center="" refresh="no"]</p>
+        </div>
+    </div>
+    <div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+</div>
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Whitespace</span>
+    <div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div data-placeholder="1/4 Column" data-name="one_fourth" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings">
+            <div id="column_data"></div>
+        </div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_class_hours dt_module_unique ui-draggable dt_first ui-sortable-handle" data-name="class_hours" data-placeholder="Class Hours" style="opacity: 1; z-index: 1;"><span class="icon-clients dt_icon"></span>
+            <span class="dt_module_name">Class Hours</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="title" class="title dt_module_setting">Class Hours</div>
+                <div data-option_name="cc_content" class="dtthemes_module_content cc_content dt_module_setting">[dt_sc_class_hour day="Monday" time="9am - 3pm"]
+                    <br> [dt_sc_class_hour day="Tuesday" time="9am - 3pm"]
+                    <br> [dt_sc_class_hour day="Wednesday" time="9am - 3pm"]
+                    <br> [dt_sc_class_hour day="Thursday" time="9am - 3pm"]
+                    <br> [dt_sc_class_hour day="Friday" time="9am - 3pm"]
+                    <br> [dt_sc_class_hour day="Saturday" time="Holiday"]
+                    <br> [dt_sc_class_hour day="Sunday" time="Holiday"]</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_hr_invisible_medium dt_module_others dt_disable_resize ui-draggable dt_first ui-sortable-handle" data-name="hr_invisible_medium" data-placeholder="Whitespace Medium" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+            <span class="dt_module_name">Whitespace Medium</span>
+            <div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings"></div>
+        </div>
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <p><span class="highlight" style="font-size: 15px;"> <strong>We care</strong> </span>&nbsp;about your dearest</p>
+                </div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_social dt_module_unique ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="social" data-placeholder="Social" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+            <span class="dt_module_name">Social</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="delicious" class="delicious dt_module_setting"></div>
+                <div data-option_name="deviantart" class="deviantart dt_module_setting"></div>
+                <div data-option_name="digg" class="digg dt_module_setting"></div>
+                <div data-option_name="dribbble" class="dribbble dt_module_setting">#</div>
+                <div data-option_name="envelope" class="envelope dt_module_setting"></div>
+                <div data-option_name="facebook" class="facebook dt_module_setting">#</div>
+                <div data-option_name="flickr" class="flickr dt_module_setting"></div>
+                <div data-option_name="google_plus" class="google_plus dt_module_setting">#</div>
+                <div data-option_name="gtalk" class="gtalk dt_module_setting"></div>
+                <div data-option_name="lastfm" class="lastfm dt_module_setting"></div>
+                <div data-option_name="linkedin" class="linkedin dt_module_setting"></div>
+                <div data-option_name="myspace" class="myspace dt_module_setting"></div>
+                <div data-option_name="picasa" class="picasa dt_module_setting">#</div>
+                <div data-option_name="pinterest" class="pinterest dt_module_setting">#</div>
+                <div data-option_name="reddit" class="reddit dt_module_setting"></div>
+                <div data-option_name="rss" class="rss dt_module_setting"></div>
+                <div data-option_name="skype" class="skype dt_module_setting"></div>
+                <div data-option_name="stumbleupon" class="stumbleupon dt_module_setting"></div>
+                <div data-option_name="technorati" class="technorati dt_module_setting"></div>
+                <div data-option_name="tumblr" class="tumblr dt_module_setting"></div>
+                <div data-option_name="twitter" class="twitter dt_module_setting">#</div>
+                <div data-option_name="viadeo" class="viadeo dt_module_setting"></div>
+                <div data-option_name="vimeo" class="vimeo dt_module_setting"></div>
+                <div data-option_name="yahoo" class="yahoo dt_module_setting"></div>
+                <div data-option_name="Youtube" class="Youtube dt_module_setting"></div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div data-placeholder="1/2 Column" data-name="one_half" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <p>[contact-form-7 id="106" title="Contact form 1"]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div data-placeholder="1/4 Column" data-name="one_fourth" class="dt_module dt_m_column dt_disable_resize dt_m_column_one_fourth ui-draggable dt_m_column_has_modules ui-sortable-handle" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/4 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Send us a Message</h2>
+                </div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_address dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="address" data-placeholder="Address" style="opacity: 1; z-index: 1;"><span class="ico-address dt_icon"></span>
+            <span class="dt_module_name">Address</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa-map-marker</div>
+                <div data-option_name="detail" class="detail dt_module_setting">121 King St, Melbourne VIC,
+                    <br> Australia</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_contact dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="contact" data-placeholder="Contact" style="opacity: 1; z-index: 1;"><span class="ico-phone dt_icon"></span>
+            <span class="dt_module_name">Contact</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa fa-phone</div>
+                <div data-option_name="detail" class="detail dt_module_setting">(000) 233 - 3236</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_contact dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="contact" data-placeholder="Contact" style="opacity: 1; z-index: 1;"><span class="ico-phone dt_icon"></span>
+            <span class="dt_module_name">Contact</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa fa-fax</div>
+                <div data-option_name="detail" class="detail dt_module_setting">+1 100 458 2345</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_contact dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="contact" data-placeholder="Contact" style="opacity: 1; z-index: 1;"><span class="ico-phone dt_icon"></span>
+            <span class="dt_module_name">Contact</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa fa-mobile-phone</div>
+                <div data-option_name="detail" class="detail dt_module_setting">+91 12345 67890</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_email dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="email" data-placeholder="Email" style="opacity: 1; z-index: 1;"><span class="ico-email dt_icon"></span>
+            <span class="dt_module_name">Email</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa-envelope</div>
+                <div data-option_name="emailid" class="emailid dt_module_setting">name@somemail.com</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_web dt_module_others ui-draggable dt_first ui-sortable-handle" data-name="web" data-placeholder="Web" style="opacity: 1; z-index: 1;"><span class="ico-web dt_icon"></span>
+            <span class="dt_module_name">Web</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="icon" class="icon dt_module_setting">fa-globe</div>
+                <div data-option_name="text" class="text dt_module_setting">google.com</div>
+                <div data-option_name="url" class="url dt_module_setting">http://www.google.com</div>
+                <div data-option_name="target" class="target dt_module_setting">_blank</div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>

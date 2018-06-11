@@ -1,0 +1,70 @@
+= Kids Life - A Trendy Kids Responsive WordPress Theme =
+
+12-02-2015 - version 1.0
+ * First Release!
+
+13-02-2015 - version 1.1
+ * Documentation updated
+
+23-03-2015 - version 1.2
+ * Documentation updated
+ * Responsive layout bug fix
+
+2015.04.23 - version 1.3
+* Woocommerce 2.3 compatible
+* Fixed Data validation
+* Fixed apple favicon issues
+* Fixed logo upload issue
+* Fixed font issues in Buddha panel
+
+2015.04.29 - version 1.4
+* Compatible with WordPress 4.2.1 
+* Fixed XSS vulnerability
+* Updated TGM Plugin
+* Updated Layer Slider , Revolution Slider and Responsive Styled Google  Maps
+* Included Envato Toolkit
+
+2015.06.23 - version 1.4.1
+* XSS vulnerability in the prettyPhoto jQuery library.
+
+2015.07.23 - version 1.4.2
+* Updated default.po language file
+* Fixed Gallery Widget
+
+2015.09.18 - version 1.4.3
+* Compatible with WordPress 4.3.1
+* Updated Font Awesome
+
+2016.04.01 - version 1.4.4
+* Compatible with WordPress 4.4.2
+* Updated Documentation
+* Updated included plugins
+* Replaced woocommerce/content-product.php with updated file
+* Fixed Recent Post Shortcode
+* Updated sub menu css
+* Included POT file for better translation 
+
+2016.04.15 - version 1.4.5
+* Compatible with WordPress 4.5
+
+2016.07.01 - version 1.4.6
+* Updated TGMA Plugin
+* Compatible with WooCommerce 2.6.1
+* Updated style.css located at framework\woocommerce\
+* Updated designthemes-core-features.zip located at framework\plugins
+* To fix isotope in RTL mode, updated the following fiels custom.js and jquery.isotope.min.js located at framework\js\public
+* Updated rtl.css
+
+2016.08.18 - version 1.5
+* Compatible with WordPress 4.6
+* Compatible with Visual Composer Plugin
+
+2016.09.21 - version 1.6
+* Updated DesignThemes Page builder ( Now compatible with WPML )
+* Updated FontAwesome css
+* Updated Mailchimp widget with latest API
+* Updated Dummy Data importer
+* Now Kidslife compatible with SSL
+* Global page, post layout option
+* Updated DesignThemes Core Plugin
+* 4 New Headers added

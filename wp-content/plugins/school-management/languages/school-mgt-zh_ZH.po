@@ -1,0 +1,1818 @@
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: School Management System  v 1.0\n"
+"POT-Creation-Date: 2015-05-19 14:28:36+00:00\n"
+"PO-Revision-Date: 2015-09-08 15:46+0530\n"
+"Last-Translator: Hasmukh Kanzariya <hasmukh@dasinfomedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"Language-Team: \n"
+
+#: fronted_template.php:111
+msgid "My Profile"
+msgstr "æˆ‘çš„èµ„æ–™"
+
+#: fronted_template.php:113
+msgid "Log Out"
+msgstr "æ³¨é”€"
+
+#: fronted_template.php:132
+msgid "Home"
+msgstr "ä¸»é¡µ"
+
+#: fronted_template.php:134 smgt-function.php:774 admin.php:9
+msgid "Dashboard"
+msgstr "ç”¨æˆ·ä¸­å¿ƒ"
+
+#: fronted_template.php:174 smgt-function.php:437 settings.php:22 admin.php:11
+#: index.php:125 admin/includes/message/composemail.php:30
+#: admin/includes/payment/add-payment.php:55 admin/includes/dasboard.php:59
+#: template/composemail.php:87 admin/includes/payment/add_income.php:66
+#: template/payment.php:547
+msgid "Student"
+msgstr "å­¦å‘˜"
+
+#: fronted_template.php:186
+msgid "teacher"
+msgstr "è€�å¸ˆ"
+
+#: fronted_template.php:198
+msgid "parent"
+msgstr "æ ¹æº�"
+
+#: fronted_template.php:210 admin/includes/dasboard.php:94
+msgid "Today attendence"
+msgstr "ä»Šå¤©è€ƒå‹¤"
+
+#: fronted_template.php:229 admin.php:23
+msgid "Notice"
+msgstr "é€šçŸ¥"
+
+#: fronted_template.php:225 admin/includes/holiday/index.php:69
+#: admin/includes/dasboard.php:138
+msgid "Holiday List"
+msgstr "å�‡æ—¥åˆ—è¡¨"
+
+#: fronted_template.php:293
+msgid "My Time Table"
+msgstr "æˆ‘çš„èµ„æ–™"
+
+#: settings.php:20 template/composemail.php:90
+msgid "Admin"
+msgstr "ç®¡ç�†å‘˜"
+
+#: settings.php:21 smgt-function.php:439 admin.php:13 teacher-attendence.php:62
+#: admin/includes/report/index.php:111 admin/includes/routine/index.php:178
+#: admin/includes/subject/add-newsubject.php:43 admin/includes/dasboard.php:70
+#: template/account.php:102 template/new_message.php:179 template/sent.php:176
+#: template/subject.php:195
+msgid "Teacher"
+msgstr "è€�å¸ˆ"
+
+#: settings.php:23 smgt-function.php:440 admin.php:14
+#: admin/includes/dasboard.php:82
+msgid "Parent"
+msgstr "çˆ¶æ¯�"
+
+#: settings.php:30
+msgid "School Title Here"
+msgstr "è¿™é‡Œçš„å­¦æ ¡æ ‡é¢˜"
+
+#: settings.php:148 admin/includes/student/student.php:164
+#: admin/includes/teacher/add-newteacher.php:170
+#: admin/includes/teacher/add-newteacher.php:171
+#: admin/includes/transport/add-transport.php:67
+#: admin/includes/general-settings.php:88
+#: admin/includes/supportstaff/add-staff.php:181
+#: admin/includes/supportstaff/add-staff.php:180 template/student.php:567
+#: template/student.php:568
+msgid "Upload Image"
+msgstr "ä¸Šä¼ å›¾ç‰‡"
+
+#: settings.php:159
+msgid "School Management Login Page"
+msgstr "å­¦æ ¡ç®¡ç�†ç™»å½•é¡µ"
+
+#: smgt-function.php:438 admin/includes/parent/add-newparent.php:81
+#: admin/includes/parent/add-newparent.php:99
+#: admin/includes/parent/add-newparent.php:122
+msgid "Child"
+msgstr "å­�åˆ†ç±»"
+
+#: smgt-function.php:441 smgt-function.php:871 smgt-function.php:1084
+#: smgt-function.php:1169 admin.php:15
+#: admin/includes/message/composemail.php:35
+#: admin/includes/message/inbox.php:37 admin/includes/message/sendbox.php:38
+#: admin/includes/message/view_message.php:33
+#: admin/includes/report/index.php:39 admin/includes/routine/add-route.php:40
+#: admin/includes/student/index.php:172
+#: admin/includes/teacher/add-newteacher.php:145
+#: admin/includes/teacher/add-newteacher.php:156 template/composemail.php:95
+#: template/inbox.php:47 template/new_message.php:14 template/sendbox.php:37
+#: template/sent.php:15 template/view_message.php:30
+msgid "Subject"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: smgt-function.php:442 admin.php:17
+msgid "Class Routine"
+msgstr "å¸¸è§„ç±»"
+
+#: smgt-function.php:443 smgt-function.php:1172 admin.php:18 index.php:50
+#: admin/includes/student/index.php:175 template/attendance.php:24
+#: template/child.php:27 template/child.php:70 template/student.php:177
+msgid "Attendance"
+msgstr "è€ƒå‹¤"
+
+#: smgt-function.php:445 admin/includes/mark/index.php:133
+#: admin/includes/mark/index.php:202 template/manage_marks.php:127
+#: template/manage_marks.php:198
+msgid "Manage Marks"
+msgstr "ç®¡ç�†æ ‡è®°"
+
+#: smgt-function.php:444 admin.php:19
+msgid "Exam"
+msgstr "è€ƒè¯•"
+
+#: smgt-function.php:446 template/payment.php:21 admin/admin.php:26
+msgid "Payment"
+msgstr "ä»˜æ¬¾"
+
+#: smgt-function.php:447 admin.php:22
+msgid "Transport"
+msgstr "äº¤é€š"
+
+#: smgt-function.php:448
+msgid "Notice Board"
+msgstr "é€šçŸ¥"
+
+#: smgt-function.php:449 smgt-function.php:1384 admin.php:24
+msgid "Message"
+msgstr "æ¶ˆæ�¯"
+
+#: smgt-function.php:450 template/holiday.php:18 admin/admin.php:27
+msgid "Holiday"
+msgstr "èŠ‚æ—¥"
+
+#: smgt-function.php:451
+msgid "Account"
+msgstr "è´¦æˆ·"
+
+#: smgt-function.php:756 smgt-function.php:1516 smgt-function.php:1672
+#: smgt-function.php:1851 template/account.php:181
+#: admin/includes/sms_setting/index.php:105
+msgid "Username"
+msgstr "ç”¨æˆ·å��"
+
+#: smgt-function.php:757 smgt-function.php:1522
+#: admin/includes/parent/add-newparent.php:251
+#: admin/includes/student/student.php:149
+#: admin/includes/teacher/add-newteacher.php:156
+#: admin/includes/sms_setting/index.php:111 template/student.php:553
+msgid "Password"
+msgstr "å¯†ç �"
+
+#: smgt-function.php:758
+msgid "Remember Me"
+msgstr "ä¿�æŒ�ç™»å½•"
+
+#: smgt-function.php:759
+msgid "Log In"
+msgstr "ç™»å½•"
+
+#: smgt-function.php:800 admin/includes/mark/index.php:171
+#: admin/includes/mark/index.php:193 admin/includes/routine/add-route.php:43
+#: template/manage_marks.php:167 template/manage_marks.php:189
+msgid "Select subject"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: smgt-function.php:850 template/exam.php:73
+msgid "Exam Result"
+msgstr "è€ƒè¯•"
+
+#: smgt-function.php:856 smgt-function.php:860 smgt-function.php:1157
+msgid "PDF"
+msgstr "PDF"
+
+#: smgt-function.php:856 smgt-function.php:860 smgt-function.php:1735
+msgid "Print"
+msgstr "æ‰“å�°"
+
+#: smgt-function.php:872 smgt-function.php:1085 smgt-function.php:1170
+msgid "Obtain Mark"
+msgstr "èŽ·å�–æ ‡è®°"
+
+#: smgt-function.php:873 admin.php:20 admin/includes/student/index.php:174
+#: smgt-function.php:1086 smgt-function.php:1171
+msgid "Grade"
+msgstr "ç­‰çº§"
+
+#: smgt-function.php:874 smgt-function.php:1173
+#: admin/includes/grade/add-grade.php:50 admin/includes/grade/index.php:107
+#: admin/includes/grade/index.php:118 admin/includes/mark/index.php:243
+#: admin/includes/student/index.php:176 template/manage_marks.php:239
+msgid "Comment"
+msgstr "è¯„è®º"
+
+#: smgt-function.php:898 smgt-function.php:1004 smgt-function.php:1111
+#: smgt-function.php:1196
+msgid "Total Marks"
+msgstr "æ€»æˆ�ç»©"
+
+#: smgt-function.php:903 smgt-function.php:1008 smgt-function.php:1115
+#: smgt-function.php:1199
+msgid "GPA(grade point average)"
+msgstr "GPA (å¹³å�‡æˆ�ç»©ç‚¹æ•°ï¼‰"
+
+#: smgt-function.php:920
+msgid "No Result Fount"
+msgstr "æ²¡æœ‰ç»“æžœçš„æ�¥æº�"
+
+#: smgt-function.php:948 smgt-function.php:1057
+msgid "Sirname"
+msgstr "å§“"
+
+#: smgt-function.php:953 smgt-function.php:1062
+#: admin/includes/parent/add-newparent.php:35
+#: admin/includes/student/student.php:63
+#: admin/includes/teacher/add-newteacher.php:37
+#: admin/includes/supportstaff/add-staff.php:38 template/student.php:445
+msgid "First Name"
+msgstr "å§“"
+
+#: smgt-function.php:956 smgt-function.php:1062 admin.php:16
+#: admin/includes/payment/add-payment.php:35
+#: admin/includes/payment/index.php:99 admin/includes/payment/index.php:112
+#: admin/includes/report/index.php:9 admin/includes/report/index.php:59
+#: admin/includes/report/index.php:87 admin/includes/routine/add-route.php:26
+#: admin/includes/routine/index.php:109 admin/includes/student/student.php:41
+#: admin/includes/student/index.php:252
+#: admin/includes/subject/add-newsubject.php:29
+#: admin/includes/teacher/add-newteacher.php:102
+#: admin/includes/teacher/add-newteacher.php:144
+#: admin/includes/teacher/add-newteacher.php:155
+#: admin/includes/dasboard.php:178 admin/includes/dasboard.php:194
+#: admin/includes/dasboard.php:262 template/child.php:133
+#: template/child.php:143 template/new_message.php:41
+#: template/new_message.php:49 template/schedule.php:10
+#: template/schedule.php:86 template/schedule.php:137 template/sent.php:42
+#: template/sent.php:50 template/sent.php:161 template/student.php:88
+#: template/student.php:100 template/subject.php:46 template/subject.php:54
+#: template/subject.php:181 admin/includes/payment/add_income.php:46
+#: template/payment.php:259 template/payment.php:277 template/payment.php:527
+#: template/student.php:423
+msgid "Class"
+msgstr "ç±»"
+
+#: smgt-function.php:963 smgt-function.php:1072
+#: admin/includes/exam/add-exam.php:27 admin/includes/mark/add-result.php:62
+msgid "Exam Name"
+msgstr "è€ƒè¯•å��ç§°"
+
+#: smgt-function.php:1083
+msgid "S/No"
+msgstr "S /å�¦"
+
+#: smgt-function.php:1160
+msgid "Result"
+msgstr "çµ�æžœ"
+
+#: smgt-function.php:1224 admin/includes/payment/add_income.php:79
+#: template/payment.php:560
+msgid "Select student"
+msgstr "å­¦å‘˜"
+
+#: smgt-function.php:1241 admin/includes/message/composemail.php:35
+#: template/composemail.php:90
+msgid "Parents"
+msgstr "å®¶é•¿"
+
+#: smgt-function.php:1248 admin/includes/parent/index.php:159
+#: admin/includes/parent/index.php:168 admin/includes/student/index.php:250
+#: admin/includes/student/index.php:260 admin/includes/teacher/index.php:142
+#: admin/includes/teacher/index.php:153 admin/includes/transport/index.php:109
+#: admin/includes/transport/index.php:122 template/child.php:131
+#: template/child.php:141 template/student.php:85 template/student.php:97
+#: template/teacher.php:25 template/teacher.php:32 template/transport.php:27
+#: template/transport.php:38 admin/includes/supportstaff/index.php:140
+#: admin/includes/supportstaff/index.php:149
+msgid "Photo"
+msgstr "ç…§ç‰‡"
+
+#: smgt-function.php:1249 admin/includes/mark/index.php:240
+#: template/account.php:170 template/account.php:432 template/account.php:443
+#: template/manage_marks.php:236 admin/includes/supportstaff/index.php:141
+#: admin/includes/supportstaff/index.php:150
+#: admin/includes/supportstaff/index.php:142
+#: admin/includes/supportstaff/index.php:151
+msgid "Name"
+msgstr "å§“å��"
+
+#: smgt-function.php:1250 admin/includes/parent/add-newparent.php:184
+msgid "Relation"
+msgstr "å…³è�”"
+
+#: smgt-function.php:1286
+msgid "No Parents"
+msgstr "æ²¡æœ‰çˆ¶æ¯�"
+
+#: smgt-function.php:1308
+msgid "Notice Detail"
+msgstr "æ³¨æ„�ç»†èŠ‚"
+
+#: smgt-function.php:1315 admin/includes/notice/add-notice.php:23
+#: admin/includes/notice/index.php:118 admin/includes/notice/index.php:129
+#: template/notice.php:24 template/notice.php:50
+msgid "Notice Title"
+msgstr "é€šçŸ¥"
+
+#: smgt-function.php:1321 admin/includes/notice/add-notice.php:30
+#: admin/includes/notice/index.php:119 admin/includes/notice/index.php:130
+#: template/notice.php:25 template/notice.php:51
+msgid "Notice Comment"
+msgstr "è¯„è®º"
+
+#: smgt-function.php:1327 admin/includes/notice/add-notice.php:51
+#: admin/includes/notice/index.php:122 admin/includes/notice/index.php:133
+#: template/notice.php:28 template/notice.php:54
+msgid "Notice For"
+msgstr "é€šçŸ¥"
+
+#: smgt-function.php:1333 admin/includes/holiday/add-holiday.php:41
+#: admin/includes/holiday/index.php:109 template/holiday.php:28
+#: template/holiday.php:38
+msgid "Start Date"
+msgstr "èµ·å§‹æ—¥æœŸ"
+
+#: smgt-function.php:1339 admin/includes/holiday/add-holiday.php:47
+#: admin/includes/holiday/index.php:110 admin/includes/report/index.php:258
+#: admin/includes/report/index.php:264 template/child.php:47
+#: template/holiday.php:29 template/holiday.php:39
+msgid "End Date"
+msgstr "ç»“æ�Ÿæ—¥æœŸ"
+
+#: smgt-function.php:1608 smgt-function.php:1788
+msgid "Issue Date"
+msgstr "為有價證券的發行日期。"
+
+#: smgt-function.php:1620 smgt-function.php:1799
+msgid "Payment To"
+msgstr "支付"
+
+#: smgt-function.php:1623 smgt-function.php:1802
+msgid "Bill To"
+msgstr "开账单给："
+
+#: smgt-function.php:1664 smgt-function.php:1843
+msgid "Invoice Entries"
+msgstr "发票项"
+
+#: smgt-function.php:1670 smgt-function.php:1849
+msgid "Entry"
+msgstr "输入"
+
+#: smgt-function.php:1671 smgt-function.php:1850
+msgid "Price"
+msgstr "价格"
+
+#: smgt-function.php:1728 smgt-function.php:1908
+msgid "Grand Total"
+msgstr "总价"
+
+#: admin/admin.php:5
+msgid "admin_menu"
+msgstr "admin_menu"
+
+#: admin/admin.php:7
+msgid "School management"
+msgstr "å­¦æ ¡ç®¡ç�†"
+
+#: admin/admin.php:21
+msgid "Marks Manage"
+msgstr "ç®¡ç�†æ ‡è®°"
+
+#: admin/admin.php:25
+msgid "Hall"
+msgstr "ç¦®å ‚"
+
+#: admin/admin.php:29 admin/includes/dasboard.php:163
+msgid "Report"
+msgstr "æŠ¥å‘Š"
+
+#: admin/admin.php:30 admin/includes/migration/index.php:41
+msgid "Migration"
+msgstr "å¤§æ‰¹ç¦»åŽ»"
+
+#: admin/admin.php:31 admin/includes/general-settings.php:41
+msgid "General Settings"
+msgstr "é€šç”¨è®¾ç½®"
+
+#: admin/admin.php:14 admin/includes/message/composemail.php:36
+#: template/composemail.php:208
+msgid "Support Staff"
+msgstr "技术支持人员"
+
+#: admin/admin.php:31 admin/includes/sms_setting/index.php:76
+msgid "SMS Setting"
+msgstr "短信设置"
+
+#: admin/includes/sms_setting/index.php:50
+msgid "Record Updated Successfully"
+msgstr "记录已成功更新"
+
+#: admin/includes/sms_setting/index.php:83
+msgid "Select Message Service"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/sms_setting/index.php:87
+msgid "Clickatell"
+msgstr "的Clickate"
+
+#: admin/includes/sms_setting/index.php:91
+msgid "Twilio"
+msgstr "Twilio"
+
+#: admin/includes/sms_setting/index.php:117 smgt-function.php:1528
+msgid "API Key"
+msgstr "API 密钥"
+
+#: admin/includes/sms_setting/index.php:129 smgt-function.php:1541
+msgid "Account SID"
+msgstr "帐户SID"
+
+#: admin/includes/sms_setting/index.php:135 smgt-function.php:1547
+msgid "Auth Token"
+msgstr "身份验证令牌"
+
+#: admin/includes/sms_setting/index.php:141 smgt-function.php:1553
+msgid "From Number"
+msgstr "从号码"
+
+#: admin/includes/attendence/index.php:17
+#: admin/includes/attendence/index.php:32
+msgid "Attendance successfully saved!"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/attendence/index.php:52
+msgid "Teacher  Attendance"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/attendence/index.php:63 teacher-attendence.php:16
+#: admin/includes/payment/index.php:104 admin/includes/payment/index.php:117
+#: template/child.php:68 template/payment.php:263 template/payment.php:280
+#: smgt-function.php:1669 smgt-function.php:1848
+#: admin/includes/payment/income-list.php:34
+#: admin/includes/payment/income-list.php:44
+#: admin/includes/payment/expense-list.php:34
+#: admin/includes/payment/expense-list.php:42
+#: admin/includes/payment/add_income.php:99
+#: admin/includes/payment/add_expense.php:68 template/payment.php:457
+#: template/payment.php:466 template/payment.php:580 template/payment.php:716
+#: template/payment.php:724 template/payment.php:809
+msgid "Date"
+msgstr "ç»“æ�Ÿæ—¥æœŸ"
+
+#: admin/includes/attendence/index.php:69 admin/includes/mark/index.php:159
+#: admin/includes/payment/add-payment.php:45
+#: admin/includes/report/index.php:205 admin/includes/student/student.php:45
+#: admin/includes/subject/add-newsubject.php:33
+#: admin/includes/teacher/add-newteacher.php:107 template/attendance.php:42
+#: template/manage_marks.php:155 template/new_message.php:168
+#: template/sent.php:165 template/subject.php:185
+#: admin/includes/notice/add-notice.php:67
+#: admin/includes/message/composemail.php:42
+#: admin/includes/payment/add_income.php:56 template/payment.php:537
+#: template/student.php:250 template/student.php:427
+msgid "Select Class"
+msgstr "å¸¸è§„ç±»"
+
+#: admin/includes/attendence/index.php:73 admin/includes/mark/index.php:161
+#: admin/includes/migration/index.php:65 admin/includes/report/index.php:207
+#: admin/includes/routine/add-route.php:29 template/attendance.php:46
+#: template/manage_marks.php:157
+msgid "Select class Name"
+msgstr "å§“å��"
+
+#: admin/includes/attendence/index.php:121
+#: admin/includes/attendence/teacher-attendence.php:58
+#: admin/includes/payment/add-payment.php:81
+#: admin/includes/payment/index.php:103 admin/includes/payment/index.php:116
+#: template/attendance.php:94 template/payment.php:262 template/payment.php:279
+#: smgt-function.php:1610 smgt-function.php:1789
+#: admin/includes/payment/add_income.php:86
+#: admin/includes/payment/add_expense.php:55 template/payment.php:567
+#: template/payment.php:796
+msgid "Status"
+msgstr "çŠ¶æ€�"
+
+#: admin/includes/attendence/index.php:85
+#: admin/includes/attendence/teacher-attendence.php:23
+#: template/attendance.php:59
+msgid "Take/View  Attendance"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/attendence/index.php:105
+#: admin/includes/attendence/index.php:139
+#: admin/includes/attendence/teacher-attendence.php:42
+#: admin/includes/attendence/teacher-attendence.php:74
+#: admin/includes/report/index.php:59 admin/includes/dasboard.php:178
+#: template/attendance.php:81 template/attendance.php:113
+msgid "Present"
+msgstr "ç›®å‰�"
+
+#: admin/includes/attendence/index.php:108
+#: admin/includes/attendence/index.php:139
+#: admin/includes/attendence/teacher-attendence.php:45
+#: admin/includes/attendence/teacher-attendence.php:74
+#: admin/includes/report/index.php:59 admin/includes/dasboard.php:178
+#: template/attendance.php:82 template/attendance.php:113 template/child.php:94
+msgid "Absent"
+msgstr "ç¼ºå¸­"
+
+#: admin/includes/class/add-newclass.php:27
+#: admin/includes/subject/index.php:116 admin/includes/subject/index.php:127
+#: admin/includes/class/index.php:100 admin/includes/class/index.php:110
+msgid "Class Name"
+msgstr "æ ·å¼�å��ç§°"
+
+#: admin/includes/class/add-newclass.php:33
+msgid "Numeric  Class Name"
+msgstr "æ•°å­—ç±»å��ç§°"
+
+#: admin/includes/class/add-newclass.php:39 admin/includes/class/index.php:102
+#: admin/includes/class/index.php:112
+msgid "Section"
+msgstr "æ¨¡å�—"
+
+#: admin/includes/class/add-newclass.php:46
+msgid "Student Capacity In Section"
+msgstr "å­¦å‘˜"
+
+#: admin/includes/class/add-newclass.php:46 admin/includes/class/index.php:78
+msgid "Add Class"
+msgstr "ç±»"
+
+#: admin/includes/class/index.php:24 admin/includes/exam/index.php:43
+#: admin/includes/grade/index.php:27 admin/includes/hall/index.php:36
+#: admin/includes/holiday/index.php:37 admin/includes/mark/index.php:41
+#: admin/includes/mark/index.php:92 admin/includes/notice/index.php:22
+#: admin/includes/parent/index.php:51 admin/includes/payment/index.php:41
+#: admin/includes/student/index.php:62 admin/includes/subject/index.php:48
+#: admin/includes/teacher/index.php:52 admin/includes/transport/index.php:37
+#: admin/includes/general-settings.php:17 template/manage_marks.php:40
+#: template/manage_marks.php:92 admin/includes/supportstaff/index.php:51
+msgid "record successfully Updated!"
+msgstr "æˆ�åŠŸæ›´æ–°è®°å½• ï¼�"
+
+#: admin/includes/class/index.php:34 admin/includes/exam/index.php:54
+#: admin/includes/grade/index.php:37 admin/includes/hall/index.php:46
+#: admin/includes/holiday/index.php:48 admin/includes/notice/index.php:47
+#: admin/includes/parent/index.php:62 admin/includes/payment/index.php:51
+#: admin/includes/student/index.php:85 admin/includes/subject/index.php:59
+#: admin/includes/teacher/index.php:65 admin/includes/transport/index.php:47
+#: admin/includes/supportstaff/index.php:64
+msgid "record successfully inserted!"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/class/index.php:48 admin/includes/exam/index.php:12
+#: admin/includes/grade/index.php:53 admin/includes/hall/index.php:12
+#: admin/includes/holiday/index.php:12 admin/includes/notice/index.php:63
+#: admin/includes/parent/index.php:116 admin/includes/payment/index.php:11
+#: admin/includes/student/index.php:134 admin/includes/subject/index.php:12
+#: admin/includes/teacher/index.php:90 admin/includes/transport/index.php:63
+#: admin/includes/supportstaff/index.php:89
+msgid "record successfully delete!"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/class/index.php:48
+msgid "Class List"
+msgstr "å�‡æ—¥åˆ—è¡¨"
+
+#: admin/includes/class/index.php:72
+msgid "Edit Class"
+msgstr "ç±»"
+
+#: admin/includes/class/index.php:101 admin/includes/class/index.php:111
+msgid "Class Numeric Name"
+msgstr "ç±»æ•°å€¼å��ç§°"
+
+#: admin/includes/class/index.php:103 admin/includes/class/index.php:113
+#: admin/includes/hall/add-hall.php:39 admin/includes/hall/index.php:97
+#: admin/includes/hall/index.php:107
+msgid "Capacity"
+msgstr "å®¹é‡�"
+
+#: admin/includes/class/index.php:104 admin/includes/class/index.php:114
+#: admin/includes/exam/index.php:104 admin/includes/exam/index.php:113
+#: admin/includes/grade/index.php:108 admin/includes/grade/index.php:119
+#: admin/includes/hall/index.php:109 admin/includes/hall/index.php:99
+#: admin/includes/holiday/index.php:101 admin/includes/holiday/index.php:111
+#: admin/includes/notice/index.php:123 admin/includes/notice/index.php:134
+#: admin/includes/parent/index.php:171 admin/includes/parent/index.php:162
+#: admin/includes/payment/index.php:105 admin/includes/payment/index.php:118
+#: admin/includes/student/index.php:264 admin/includes/student/index.php:254
+#: admin/includes/subject/index.php:119 admin/includes/subject/index.php:130
+#: admin/includes/teacher/index.php:147 admin/includes/teacher/index.php:158
+#: admin/includes/transport/index.php:113
+#: admin/includes/transport/index.php:126 template/child.php:135
+#: template/child.php:145 template/notice.php:29 template/notice.php:55
+#: template/student.php:89 template/student.php:101 template/subject.php:49
+#: template/subject.php:57 admin/includes/supportstaff/index.php:143
+#: admin/includes/supportstaff/index.php:152
+#: admin/includes/payment/income-list.php:35
+#: admin/includes/payment/income-list.php:45
+#: admin/includes/payment/expense-list.php:35
+#: admin/includes/payment/expense-list.php:43 template/payment.php:266
+#: template/payment.php:283 template/payment.php:458 template/payment.php:467
+#: template/payment.php:717 template/payment.php:725
+msgid "Action"
+msgstr "æ“�ä½œ"
+
+#: admin/includes/class/index.php:129 admin/includes/exam/index.php:128
+#: admin/includes/grade/index.php:136 admin/includes/grade/index.php:124
+#: admin/includes/holiday/index.php:127
+#: admin/includes/message/view_message.php:43
+#: admin/includes/notice/index.php:166 admin/includes/payment/index.php:139
+#: admin/includes/subject/index.php:151 admin/includes/teacher/index.php:191
+#: admin/includes/transport/index.php:156 template/view_message.php:40
+#: template/payment.php:750
+msgid "Are you sure you want to delete this record?"
+msgstr "æ˜¯å�¦ç¡®å®šè¦�æ°¸ä¹…åˆ é™¤æ­¤è®°å½•ï¼Ÿ"
+
+#: admin/includes/class/index.php:129 admin/includes/exam/index.php:128
+#: admin/includes/grade/index.php:136 admin/includes/grade/index.php:124
+#: admin/includes/holiday/index.php:127
+#: admin/includes/message/view_message.php:43
+#: admin/includes/notice/index.php:166 admin/includes/parent/index.php:196
+#: admin/includes/payment/index.php:139 admin/includes/student/index.php:297
+#: admin/includes/subject/index.php:151 admin/includes/teacher/index.php:191
+#: admin/includes/transport/index.php:156 template/view_message.php:41
+#: admin/includes/payment/add_income.php:137
+#: admin/includes/payment/add_income.php:158 template/payment.php:618
+#: template/payment.php:639 template/payment.php:751 template/payment.php:847
+#: template/payment.php:869
+msgid "Delete"
+msgstr "åˆ é™¤"
+
+#: admin/includes/class/index.php:128 admin/includes/exam/index.php:126
+#: admin/includes/grade/index.php:134 admin/includes/grade/index.php:122
+#: admin/includes/holiday/index.php:125 admin/includes/notice/index.php:164
+#: admin/includes/parent/index.php:195 admin/includes/payment/index.php:137
+#: admin/includes/student/index.php:295 admin/includes/subject/index.php:150
+#: admin/includes/teacher/index.php:190 admin/includes/transport/index.php:154
+#: template/account.php:192 admin/includes/general-settings.php:83
+#: admin/includes/notice/index.php:163 template/payment.php:748
+msgid "Edit"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/supportstaff/index.php:190
+msgid "Support Staff List"
+msgstr "支持人员名单"
+
+#: admin/includes/supportstaff/index.php:116
+msgid "Edit Support Staff"
+msgstr "编辑支持人员"
+
+#: admin/includes/supportstaff/index.php:122
+msgid "Add New Support Staff"
+msgstr "技术支持人员"
+
+#: admin/includes/supportstaff/add-staff.php:211
+msgid "Add Support Staff"
+msgstr "技术支持人员"
+
+#: admin/includes/supportstaff/add-staff.php:211
+msgid "Save Support Staff"
+msgstr "技术支持人员"
+
+#: admin/includes/exam/add-exam.php:33 admin/includes/exam/index.php:102
+#: admin/includes/mark/add-result.php:69 template/exam.php:38
+#: template/exam.php:47
+msgid "Exam Date"
+msgstr "è€ƒè¯•"
+
+#: admin/includes/exam/add-exam.php:39 admin/includes/exam/index.php:103
+#: admin/includes/mark/add-result.php:76 template/exam.php:39
+#: template/exam.php:48
+msgid "Exam Comment"
+msgstr "è¯„è®º"
+
+#: admin/includes/exam/add-exam.php:46
+msgid "Save Exam"
+msgstr "ä¿�å­˜è€ƒè¯•"
+
+#: admin/includes/exam/add-exam.php:46 admin/includes/exam/add-exam.php:86
+#: admin/includes/mark/add-result.php:83
+msgid "Add Exam"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: admin/includes/exam/index.php:76 template/composemail.php:111
+#: template/exam.php:16
+msgid "Exam List"
+msgstr "å�‡æ—¥åˆ—è¡¨"
+
+#: admin/includes/exam/index.php:80 admin/includes/mark/add-result.php:42
+msgid "Edit Exam"
+msgstr "ç±»"
+
+#: admin/includes/exam/index.php:101 template/exam.php:37 template/exam.php:46
+msgid "Exam Title"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/grade/add-grade.php:26 admin/includes/grade/index.php:103
+#: admin/includes/grade/index.php:114
+msgid "Grade Name"
+msgstr "ç­‰çº§"
+
+#: admin/includes/grade/add-grade.php:32 admin/includes/grade/index.php:104
+#: admin/includes/grade/index.php:115
+msgid "Grade Point"
+msgstr "GPA (å¹³å�‡æˆ�ç»©ç‚¹æ•°ï¼‰"
+
+#: admin/includes/grade/add-grade.php:38 admin/includes/grade/index.php:105
+#: admin/includes/grade/index.php:116
+msgid "Mark From"
+msgstr "èŽ·å�–æ ‡è®°"
+
+#: admin/includes/grade/add-grade.php:44 admin/includes/grade/index.php:106
+#: admin/includes/grade/index.php:117
+msgid "Mark Upto"
+msgstr "èŽ·å�–æ ‡è®°"
+
+#: admin/includes/grade/add-grade.php:57
+msgid "Save Grade"
+msgstr "ä¿ å­˜è€ƒè¯•"
+
+#: admin/includes/grade/add-grade.php:57
+msgid "Add Grade"
+msgstr "ç­‰çº§"
+
+#: admin/includes/grade/index.php:73
+msgid "Grade List"
+msgstr "ç­‰çº§"
+
+#: admin/includes/grade/index.php:77
+msgid "Edit Grade"
+msgstr "ç­‰çº§"
+
+#: admin/includes/hall/add-hall.php:26 admin/includes/hall/index.php:95
+#: admin/includes/hall/index.php:105
+msgid "Hall Name"
+msgstr "ç¦®å ‚"
+
+#: admin/includes/hall/add-hall.php:33 admin/includes/hall/index.php:96
+#: admin/includes/hall/index.php:106
+msgid "Hall Numeric Value"
+msgstr "ç¦®å ‚"
+
+#: admin/includes/hall/add-hall.php:45 admin/includes/hall/index.php:98
+#: admin/includes/hall/index.php:108 admin/includes/holiday/add-holiday.php:35
+#: admin/includes/holiday/index.php:98 admin/includes/holiday/index.php:108
+#: admin/includes/message/inbox.php:39 admin/includes/message/sendbox.php:40
+#: admin/includes/payment/add-payment.php:94
+#: admin/includes/payment/index.php:101 admin/includes/payment/index.php:114
+#: admin/includes/transport/add-transport.php:93 template/holiday.php:27
+#: template/holiday.php:37 template/inbox.php:49 template/payment.php:33
+#: template/payment.php:46 template/sendbox.php:39
+msgid "Description"
+msgstr "è¯´æ˜Ž"
+
+#: admin/includes/hall/add-hall.php:51
+msgid "Save Hall"
+msgstr "ä¿�å­˜å¤§åŽ…"
+
+#: admin/includes/hall/add-hall.php:51 admin/includes/hall/index.php:77
+msgid "Add Hall"
+msgstr "ç¦®å ‚"
+
+#: admin/includes/hall/index.php:71
+msgid "Edit Hall"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/holiday/add-holiday.php:53
+msgid "Save Holiday"
+msgstr "èŠ‚æ—¥"
+
+#: admin/includes/holiday/add-holiday.php:53
+#: admin/includes/holiday/index.php:78
+msgid "Add Holiday"
+msgstr "èŠ‚æ—¥"
+
+#: admin/includes/holiday/index.php:73
+msgid "Edit Holiday"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/holiday/index.php:97 admin/includes/holiday/index.php:107
+#: template/holiday.php:26 template/holiday.php:36
+msgid "Holiday Title"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/mark/add-result.php:22
+msgid "Update Exam Successfully"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/mark/add-result.php:28
+msgid "Add Exam Successfully"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: admin/includes/mark/add-result.php:48
+msgid "Add New Exam"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: admin/includes/mark/index.php:55
+msgid "insert"
+msgstr "æ�’å…¥"
+
+#: admin/includes/mark/index.php:142 admin/includes/migration/index.php:75
+#: admin/includes/report/index.php:188 template/manage_marks.php:138
+msgid "Select Exam"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/mark/index.php:147 admin/includes/migration/index.php:82
+#: admin/includes/report/index.php:193 template/manage_marks.php:143
+msgid "Select Exam Name"
+msgstr "å§“å��"
+
+#: admin/includes/mark/index.php:218
+msgid "Select Subject ID"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/mark/index.php:220
+msgid "Select Class ID"
+msgstr "å¸¸è§„ç±»"
+
+#: admin/includes/mark/index.php:222
+msgid "Select Exam ID"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/mark/index.php:241 template/manage_marks.php:237
+msgid "Mark Obtained(out of 100)"
+msgstr "è¶…å‡º 100"
+
+#: admin/includes/mark/index.php:258 template/manage_marks.php:254
+msgid "Update"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/mark/index.php:250 template/manage_marks.php:247
+msgid "Add Mark"
+msgstr "èŽ·å�–æ ‡è®°"
+
+#: admin/includes/mark/index.php:288 template/manage_marks.php:285
+msgid "Update All Marks"
+msgstr "ç®¡ç�†æ ‡è®°"
+
+#: admin/includes/payment/expense-list.php:32
+#: admin/includes/payment/expense-list.php:40
+#: admin/includes/payment/add_expense.php:49 template/payment.php:714
+#: template/payment.php:722 template/payment.php:790
+msgid "Supplier Name"
+msgstr "å§“"
+
+#: admin/includes/payment/income-list.php:31
+#: admin/includes/payment/income-list.php:40 template/payment.php:258
+#: template/payment.php:276 template/payment.php:454 template/payment.php:463
+#: template/student.php:295 template/student.php:308
+msgid "Roll No."
+msgstr "å�·æ²¡æœ‰ä¸€åˆ‡å‡†å¤‡å®Œæ¯•å�Žå­˜åœ¨ ï¼�"
+
+#: admin/includes/payment/income-list.php:31
+#: admin/includes/payment/income-list.php:41
+msgid "Studnet Name"
+msgstr "å§“"
+
+#: admin/includes/message/composemail.php:16 template/composemail.php:70
+msgid "Edit Message"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/message/composemail.php:30 template/composemail.php:84
+msgid "Message To"
+msgstr "æ¶ˆæ�¯"
+
+#: admin/includes/message/composemail.php:34 template/composemail.php:88
+msgid "Teachers"
+msgstr "æ•™å¸ˆ"
+
+#: admin/includes/message/composemail.php:46 template/composemail.php:101
+msgid "Message Comment"
+msgstr "æ¶ˆæ�¯"
+
+#: admin/includes/message/composemail.php:54 template/composemail.php:111
+msgid "Save Message"
+msgstr "æ¶ˆæ�¯"
+
+#: admin/includes/message/composemail.php:54 template/composemail.php:111
+msgid "Send Message"
+msgstr "æ¶ˆæ�¯"
+
+#: admin/includes/message/inbox.php:35 admin/includes/message/sendbox.php:36
+#: template/inbox.php:45 template/sendbox.php:35
+msgid "Message For"
+msgstr "æ¶ˆæ�¯"
+
+#: admin/includes/message/index.php:59
+msgid "Message Sent Successfully!"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/message/index.php:74 admin/includes/message/index.php:84
+#: template/message.php:9 template/message.php:20
+msgid "Compose"
+msgstr "å†™é‚®ä»¶"
+
+#: admin/includes/message/index.php:80 admin/includes/message/index.php:95
+#: template/message.php:16 template/message.php:44
+msgid "Inbox"
+msgstr "æ”¶ä»¶ç®±"
+
+#: admin/includes/message/index.php:82 template/message.php:18
+msgid "Sent Item"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/message/sendbox.php:96 template/message.php:49
+msgid "Sent"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/migration/index.php:16
+msgid "Migration successfully"
+msgstr "å¤§æ‰¹ç¦»åŽ»"
+
+#: admin/includes/migration/index.php:51
+msgid "Select Current Class"
+msgstr "å§“å��"
+
+#: admin/includes/migration/index.php:53
+msgid "Select Current Class Name"
+msgstr "å§“å��"
+
+#: admin/includes/migration/index.php:63
+msgid "Select Next Class"
+msgstr "å§“å��"
+
+#: admin/includes/migration/index.php:95
+msgid "Passing Marks"
+msgstr "ç®¡ç�†æ ‡è®°"
+
+#: admin/includes/migration/index.php:100 admin/includes/report/index.php:218
+#: template/child.php:53 template/student.php:267
+msgid "Go"
+msgstr "å‡ºç™¼"
+
+#: admin/includes/notice/add-notice.php:37 admin/includes/notice/index.php:120
+#: admin/includes/notice/index.php:131 template/notice.php:26
+#: template/notice.php:52
+msgid "Notice Start Date"
+msgstr "èµ·å§‹æ—¥æœŸ"
+
+#: admin/includes/notice/add-notice.php:44 admin/includes/notice/index.php:121
+#: admin/includes/notice/index.php:132 template/notice.php:27
+#: template/notice.php:53
+msgid "Notice End Date"
+msgstr "ç»“æ�Ÿæ—¥æœŸ"
+
+#: admin/includes/notice/add-notice.php:54
+msgid "All"
+msgstr "ç®¡ç�†æ ‡è®°"
+
+#: admin/includes/notice/add-notice.php:66
+msgid "Save Notice"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/notice/add-notice.php:66 admin/includes/notice/index.php:102
+msgid "Add Notice"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/notice/add-notice.php:84
+#: admin/includes/message/composemail.php:71 template/composemail.php:242
+#: admin/includes/notice/add-notice.php:96
+#: admin/includes/message/composemail.php:83 template/composemail.php:254
+msgid "SMS Text'"
+msgstr "SMS文本“"
+
+#: admin/includes/notice/index.php:92 template/notice.php:24
+msgid "Notice List"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/notice/index.php:96
+msgid "Edit Notice"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/parent/add-newparent.php:41
+#: admin/includes/student/student.php:69
+#: admin/includes/teacher/add-newteacher.php:43
+#: admin/includes/supportstaff/add-staff.php:44 template/student.php:451
+msgid "Middle Name"
+msgstr "å§“"
+
+#: admin/includes/parent/add-newparent.php:47
+#: admin/includes/student/student.php:75
+#: admin/includes/teacher/add-newteacher.php:49
+#: admin/includes/supportstaff/add-staff.php:50 template/student.php:457
+msgid "Last Name"
+msgstr "å§“"
+
+#: admin/includes/parent/add-newparent.php:53
+#: admin/includes/student/student.php:81
+#: admin/includes/teacher/add-newteacher.php:55
+#: admin/includes/supportstaff/add-staff.php:56 template/student.php:463
+msgid "Gender"
+msgstr "æ€§åˆ«"
+
+#: admin/includes/parent/add-newparent.php:57
+#: admin/includes/student/student.php:85
+#: admin/includes/teacher/add-newteacher.php:59
+#: admin/includes/supportstaff/add-staff.php:60 template/student.php:467
+msgid "Male"
+msgstr "ç”·"
+
+#: admin/includes/parent/add-newparent.php:60
+#: admin/includes/student/student.php:88
+#: admin/includes/teacher/add-newteacher.php:62
+#: admin/includes/supportstaff/add-staff.php:63 template/student.php:470
+msgid "Female"
+msgstr "å¥³ç”Ÿ"
+
+#: admin/includes/parent/add-newparent.php:65
+#: admin/includes/student/student.php:93
+#: admin/includes/teacher/add-newteacher.php:67
+#: admin/includes/supportstaff/add-staff.php:68 template/student.php:475
+msgid "Date of birth"
+msgstr "å‡ºç”Ÿæ—¥æœŸ"
+
+#: admin/includes/parent/add-newparent.php:145
+msgid "Add Other Child"
+msgstr "æ·»åŠ å�¦ä¸€ä¸ªå­©å­�"
+
+#: admin/includes/parent/add-newparent.php:146
+msgid "Remove"
+msgstr "åˆ é™¤"
+
+#: admin/includes/parent/add-newparent.php:188
+msgid "select relation"
+msgstr "å…³è�”"
+
+#: admin/includes/parent/add-newparent.php:189
+msgid "Father"
+msgstr "çˆ¶äº²"
+
+#: admin/includes/parent/add-newparent.php:190
+msgid "Mother"
+msgstr "æ¯�äº²"
+
+#: admin/includes/parent/add-newparent.php:195
+#: admin/includes/student/student.php:100
+#: admin/includes/teacher/add-newteacher.php:74 template/account.php:261
+#: template/account.php:518 admin/includes/supportstaff/add-staff.php:75
+#: template/student.php:482
+msgid "Address"
+msgstr "åœ°å�€"
+
+#: admin/includes/parent/add-newparent.php:202
+#: admin/includes/student/student.php:107
+#: admin/includes/teacher/add-newteacher.php:81 template/account.php:272
+#: template/account.php:529 admin/includes/supportstaff/add-staff.php:82
+#: template/student.php:489
+msgid "City"
+msgstr "åŸŽå¸‚"
+
+#: admin/includes/parent/add-newparent.php:209
+#: admin/includes/student/student.php:114
+#: admin/includes/teacher/add-newteacher.php:88 template/account.php:283
+#: template/account.php:540 admin/includes/supportstaff/add-staff.php:89
+#: template/student.php:496
+msgid "State"
+msgstr "çŠ¶æ€�"
+
+#: admin/includes/parent/add-newparent.php:216
+#: admin/includes/student/student.php:121
+#: admin/includes/teacher/add-newteacher.php:95
+#: admin/includes/supportstaff/add-staff.php:96 template/student.php:503
+msgid "Zip Code"
+msgstr "é‚®æ”¿ç¼–ç �"
+
+#: admin/includes/parent/add-newparent.php:223
+#: admin/includes/supportstaff/add-staff.php:104 template/student.php:510
+msgid "Mobile Number"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: admin/includes/parent/add-newparent.php:228
+#: admin/includes/student/student.php:133
+#: admin/includes/teacher/add-newteacher.php:107
+#: admin/includes/supportstaff/add-staff.php:116 template/student.php:521
+msgid "Alternet Mobile Number"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: admin/includes/parent/add-newparent.php:230
+#: admin/includes/student/student.php:128
+#: admin/includes/teacher/add-newteacher.php:117 template/account.php:294
+#: template/account.php:555 admin/includes/supportstaff/add-staff.php:127
+#: template/student.php:532
+msgid "Phone"
+msgstr "ç”µè¯�"
+
+#: admin/includes/parent/add-newparent.php:237
+#: admin/includes/student/student.php:135
+#: admin/includes/teacher/add-newteacher.php:124
+#: admin/includes/general-settings.php:78 template/account.php:305
+#: template/account.php:562 admin/includes/supportstaff/add-staff.php:134
+#: template/student.php:539
+msgid "Email"
+msgstr "æ ¹æº�"
+
+#: admin/includes/parent/add-newparent.php:244
+#: admin/includes/student/student.php:142
+#: admin/includes/teacher/add-newteacher.php:149 template/student.php:546
+msgid "User Name"
+msgstr "å§“"
+
+#: admin/includes/parent/add-newparent.php:257
+#: admin/includes/student/student.php:155
+#: admin/includes/teacher/add-newteacher.php:162
+#: admin/includes/transport/add-transport.php:63
+#: admin/includes/supportstaff/add-staff.php:172 template/student.php:559
+msgid "Image"
+msgstr "ä¸Šä¼ å›¾ç‰‡"
+
+#: admin/includes/parent/add-newparent.php:295
+msgid "Save Parent"
+msgstr "æ ¹æº�"
+
+#: admin/includes/parent/add-newparent.php:295
+msgid "Add Parent"
+msgstr "æ ¹æº�"
+
+#: admin/includes/parent/index.php:69
+#: admin/includes/teacher/add-newteacher.php:73
+#: admin/includes/supportstaff/index.php:72 admin/includes/student/index.php:93
+msgid "Username Or Emailid All Ready Exist."
+msgstr "å­˜åœ¨ç”¨æˆ·å��æˆ– Emailid éƒ½å‡†å¤‡å¥½äº†ã€‚"
+
+#: admin/includes/parent/index.php:133
+msgid "Parent List"
+msgstr "æ ¹æº�"
+
+#: admin/includes/parent/index.php:138
+msgid "Edit Parent"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/parent/index.php:144
+msgid "Add New Parent"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: admin/includes/parent/index.php:160 admin/includes/parent/index.php:169
+msgid "Parent Name"
+msgstr "æ ¹æº�"
+
+#: admin/includes/parent/index.php:161 admin/includes/parent/index.php:170
+msgid "Parent Email"
+msgstr "æ ¹æº�"
+
+#: admin/includes/payment/add-payment.php:24
+#: admin/includes/payment/index.php:100 admin/includes/payment/index.php:113
+#: template/payment.php:32 template/payment.php:45
+msgid "Title"
+msgstr "è¿™é‡Œçš„å­¦æ ¡æ ‡é¢˜"
+
+#: admin/includes/payment/add-payment.php:75
+#: admin/includes/payment/index.php:102 admin/includes/payment/index.php:115
+#: template/payment.php:278 template/payment.php:261
+#: admin/includes/payment/income-list.php:33
+#: admin/includes/payment/income-list.php:42
+#: admin/includes/payment/expense-list.php:33
+#: admin/includes/payment/expense-list.php:41 template/payment.php:456
+#: template/payment.php:465 template/payment.php:715 template/payment.php:723
+msgid "Amount"
+msgstr "æ€»æ•°"
+
+#: admin/includes/payment/add-payment.php:85
+#: admin/includes/payment/add_income.php:90
+#: admin/includes/payment/add_expense.php:59 template/payment.php:571
+#: template/payment.php:800
+msgid "Paid"
+msgstr "å·²æ”¯ä»˜"
+
+#: admin/includes/payment/add-payment.php:87
+#: admin/includes/payment/add_income.php:92
+#: admin/includes/payment/add_expense.php:61 template/payment.php:802
+#: template/payment.php:573
+msgid "Part Paid"
+msgstr "éƒ¨åˆ†æ”¯ä»˜"
+
+#: admin/includes/payment/add-payment.php:89
+#: admin/includes/payment/add_income.php:94
+#: admin/includes/payment/add_expense.php:63 template/payment.php:575
+#: template/payment.php:804
+msgid "Unpaid"
+msgstr "æœªæ”¯ä»˜"
+
+#: admin/includes/payment/add-payment.php:100
+msgid "Save Payment"
+msgstr "ä»˜æ¬¾"
+
+#: admin/includes/payment/add-payment.php:100
+#: admin/includes/payment/index.php:79 template/payment.php:206
+msgid "Add Payment"
+msgstr "ä»˜æ¬¾"
+
+#: admin/includes/payment/index.php:69
+msgid "Payment List"
+msgstr "ä»˜æ¬¾"
+
+#: admin/includes/payment/index.php:73 template/payment.php:201
+msgid "Edit Payment"
+msgstr "ä»˜æ¬¾"
+
+#: admin/includes/payment/index.php:191 template/payment.php:212
+msgid "Income List"
+msgstr "é€šçŸ¥"
+
+#: template/payment.php:224
+msgid "Add Income"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/payment/index.php:195 template/payment.php:219
+msgid "Edit Income"
+msgstr "ç±»"
+
+#: admin/includes/payment/index.php:204 template/payment.php:230
+msgid "Expense List"
+msgstr "å�‡æ—¥åˆ—è¡¨"
+
+#: admin/includes/payment/index.php:208 template/payment.php:237
+msgid "Edit Expense"
+msgstr "ç±»"
+
+#: admin/includes/payment/index.php:214 template/payment.php:242
+msgid "Add Expense"
+msgstr "èŠ‚æ—¥"
+
+#: admin/includes/payment/add_income.php:127
+#: admin/includes/payment/add_income.php:149 template/payment.php:608
+msgid "Income Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_income.php:151 template/payment.php:632
+msgid "Income Amount"
+msgstr "æ€»æ•°"
+
+#: admin/includes/payment/add_income.php:154 template/payment.php:635
+msgid "Income Entry Label"
+msgstr "输入"
+
+#: admin/includes/payment/add_income.php:171 template/payment.php:652
+msgid "Add Income Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_income.php:177 template/payment.php:658
+msgid "Save Income"
+msgstr "ä¿�å­˜å¤§åŽ…"
+
+#: admin/includes/payment/add_income.php:177 template/payment.php:658
+msgid "Create Income Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_expense.php:96
+#: admin/includes/payment/add_expense.php:120 template/payment.php:837
+#: template/payment.php:859
+msgid "Expense Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_expense.php:118 template/payment.php:861
+msgid "Expense Amount"
+msgstr "æ€»æ•°"
+
+#: admin/includes/payment/add_expense.php:123 template/payment.php:864
+msgid "Expense Entry Label"
+msgstr "输入"
+
+#: admin/includes/payment/add_expense.php:141 template/payment.php:882
+msgid "Add Expense Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_expense.php:147 template/payment.php:888
+msgid "Create Expense Entry"
+msgstr "输入"
+
+#: admin/includes/payment/add_expense.php:147 template/payment.php:888
+msgid "Save Expense"
+msgstr "ä¿�å­˜å¤§åŽ…"
+
+#: admin/includes/payment/index.php:98 admin/includes/payment/index.php:111
+#: admin/includes/student/index.php:251 admin/includes/student/index.php:261
+#: template/attendance.php:98 template/payment.php:30 template/payment.php:43
+#: template/student.php:86 template/student.php:98 template/payment.php:257
+#: template/payment.php:275 template/payment.php:455 template/payment.php:464
+msgid "Student Name"
+msgstr "å­¦å‘˜"
+
+#: admin/includes/report/index.php:9
+msgid "No. of Student Fail"
+msgstr "å­¦å‘˜"
+
+#: admin/includes/report/index.php:33
+msgid "Exam Failed Report"
+msgstr "æŠ¥å‘Š"
+
+#: admin/includes/report/index.php:45 admin/includes/report/index.php:95
+#: admin/includes/report/index.php:145 admin/includes/dasboard.php:202
+#: admin/includes/dasboard.php:270
+msgid "No of Student"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/report/index.php:81 admin/includes/report/index.php:175
+msgid "Attendance Report"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/report/index.php:111
+msgid "fail"
+msgstr "ä¸�å�ˆæ ¼"
+
+#: admin/includes/report/index.php:131
+msgid "Teacher Perfomance Report"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/report/index.php:137 admin/includes/subject/index.php:115
+#: admin/includes/subject/index.php:126 admin/includes/teacher/index.php:143
+#: admin/includes/teacher/index.php:154 template/new_message.php:43
+#: template/new_message.php:51 template/sent.php:44 template/sent.php:52
+#: template/subject.php:48 template/subject.php:56 template/teacher.php:26
+#: template/teacher.php:33
+msgid "Teacher Name"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/report/index.php:172
+msgid "Student Failed Report"
+msgstr "æŠ¥å‘Š"
+
+#: admin/includes/report/index.php:178
+msgid "Teacher Performance Report"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/report/index.php:251 template/child.php:40
+msgid "Strat Date"
+msgstr "ç»“æ�Ÿæ—¥æœŸ"
+
+#: admin/includes/report/index.php:276 admin/includes/report/index.php:298
+msgid "result not found"
+msgstr "çµ�æžœ"
+
+#: admin/includes/routine/add-route.php:56 template/child.php:69
+msgid "day"
+msgstr "æ—¥"
+
+#: admin/includes/routine/add-route.php:67
+msgid "Start Time"
+msgstr "èµ·å§‹æ—¥æœŸ"
+
+#: admin/includes/routine/add-route.php:94
+#: admin/includes/routine/add-route.php:127
+msgid "am"
+msgstr "æˆ‘"
+
+#: admin/includes/routine/add-route.php:95
+#: admin/includes/routine/add-route.php:128
+msgid "pm"
+msgstr "ä¾‹å¦‚"
+
+#: admin/includes/routine/add-route.php:100
+msgid "End Time"
+msgstr "ç»“æ�Ÿæ—¥æœŸ"
+
+#: admin/includes/routine/add-route.php:133
+msgid "Save Route"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/routine/add-route.php:133 admin/includes/routine/index.php:78
+msgid "Add Route"
+msgstr "ç±»"
+
+#: admin/includes/routine/index.php:28
+msgid "Add Route Successfully"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: admin/includes/routine/index.php:31
+msgid "Dublicate Record"
+msgstr "æˆ�åŠŸæ›´æ–°è®°å½• ï¼�"
+
+#: admin/includes/routine/index.php:47
+msgid "Close"
+msgstr "å…³é—­"
+
+#: admin/includes/routine/index.php:68
+msgid "Route List"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/routine/index.php:72
+msgid "Edit Route"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/routine/index.php:81 admin/includes/routine/index.php:164
+msgid "Teacher Time Table"
+msgstr "æˆ‘çš„èµ„æ–™"
+
+#: admin/includes/student/student.php:56 template/student.php:438
+msgid "Roll Number"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: admin/includes/student/student.php:193 template/student.php:597
+msgid "Save Student"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/student/student.php:193 template/student.php:236
+#: template/student.php:597
+msgid "Add Student"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/student/index.php:76
+msgid "Roll No All Ready Exist!"
+msgstr "å�·æ²¡æœ‰ä¸€åˆ‡å‡†å¤‡å®Œæ¯•å�Žå­˜åœ¨ ï¼�"
+
+#: admin/includes/student/index.php:173
+msgid "Obtein Mark"
+msgstr "èŽ·å�–æ ‡è®°"
+
+#: admin/includes/student/index.php:219 template/student.php:73
+msgid "Student List"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/student/index.php:223 template/student.php:234
+msgid "Edit Student"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/student/index.php:230
+msgid "Add New student"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/student/index.php:253 admin/includes/student/index.php:263
+#: template/student.php:87 template/student.php:99
+msgid "Student Email"
+msgstr "æ ¹æº�"
+
+#: admin/includes/student/index.php:299 template/child.php:179
+#: template/student.php:138 template/student.php:148
+msgid "View Result"
+msgstr "çµ�æžœ"
+
+#: admin/includes/student/index.php:301 template/child.php:181
+#: template/student.php:140 template/student.php:150
+msgid "View Parent"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/subject/add-newsubject.php:23
+#: admin/includes/subject/index.php:114 admin/includes/subject/index.php:125
+#: template/new_message.php:42 template/new_message.php:50
+#: template/new_message.php:157 template/new_message.php:164
+#: template/sent.php:43 template/sent.php:51 template/sent.php:154
+#: template/subject.php:47 template/subject.php:55 template/subject.php:175
+msgid "Subject Name"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/subject/add-newsubject.php:47 template/new_message.php:183
+#: template/sent.php:180 template/subject.php:200
+msgid "Select Teacher"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/subject/add-newsubject.php:57
+#: admin/includes/subject/index.php:118 admin/includes/subject/index.php:129
+#: template/new_message.php:194 template/sent.php:191 template/subject.php:210
+msgid "Edition"
+msgstr "ç‰ˆæœ¬"
+
+#: admin/includes/subject/add-newsubject.php:63
+#: admin/includes/subject/index.php:117 admin/includes/subject/index.php:128
+#: template/new_message.php:201 template/sent.php:198 template/subject.php:216
+msgid "Author Name"
+msgstr "å§“"
+
+#: admin/includes/subject/add-newsubject.php:69
+#: admin/includes/subject/index.php:152 template/new_message.php:208
+#: template/sent.php:205 template/subject.php:75 template/subject.php:101
+#: template/subject.php:222
+msgid "Syllabus"
+msgstr "æ•™å­¦å¤§çº²"
+
+#: admin/includes/subject/add-newsubject.php:72
+msgid "Upload syllabus in PDF"
+msgstr "ä¸Šä¼ å›¾ç‰‡"
+
+#: admin/includes/subject/add-newsubject.php:77 template/new_message.php:216
+#: template/sent.php:213 template/subject.php:231
+msgid "Save Subject"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/subject/add-newsubject.php:77 template/new_message.php:14
+#: admin/includes/subject/index.php:93 template/new_message.php:216
+#: template/sent.php:20 template/sent.php:213 template/subject.php:33
+#: template/subject.php:231
+msgid "Add Subject"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/subject/index.php:83 template/new_message.php:29
+#: template/sent.php:30 template/subject.php:28
+msgid "Subject List"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/subject/index.php:87 template/new_message.php:141
+#: template/sent.php:138
+msgid "Edit Subject"
+msgstr "é‚®ä»¶ä¸»é¢˜"
+
+#: admin/includes/teacher/add-newteacher.php:131
+#: admin/includes/supportstaff/add-staff.php:141
+msgid "Working Hour"
+msgstr "å·¥ä½œå°�æ—¶"
+
+#: admin/includes/teacher/add-newteacher.php:135
+#: admin/includes/supportstaff/add-staff.php:145
+msgid "select job time"
+msgstr "æˆ‘çš„èµ„æ–™"
+
+#: admin/includes/teacher/add-newteacher.php:136
+#: admin/includes/supportstaff/add-staff.php:146
+msgid "Full Time"
+msgstr "èµ·å§‹æ—¥æœŸ"
+
+#: admin/includes/teacher/add-newteacher.php:137
+#: admin/includes/supportstaff/add-staff.php:147
+msgid "Part time"
+msgstr "éƒ¨åˆ†æ”¯ä»˜"
+
+#: admin/includes/teacher/add-newteacher.php:142
+#: admin/includes/supportstaff/add-staff.php:152
+msgid "Position"
+msgstr "ä½�ç½®"
+
+#: admin/includes/teacher/add-newteacher.php:199
+msgid "Submitted Documents"
+msgstr "æ  äº¤çš„æ–‡ä»¶"
+
+#: admin/includes/teacher/add-newteacher.php:206
+msgid "curriculum vitae"
+msgstr "ç®€åŽ†"
+
+#: admin/includes/teacher/add-newteacher.php:211
+msgid "Education Certificate"
+msgstr "æ•™è‚²è¯�ä¹¦"
+
+#: admin/includes/teacher/add-newteacher.php:216
+msgid "Experience Certificate"
+msgstr "ç»�éªŒè¯�ä¹¦"
+
+#: admin/includes/teacher/add-newteacher.php:224
+msgid "Save Teacher"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/teacher/add-newteacher.php:224
+msgid "Add Teacher"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/teacher/index.php:113 template/teacher.php:13
+msgid "Teacher List"
+msgstr "è€�å¸ˆ"
+
+#: admin/includes/teacher/index.php:118
+msgid "Edit Teacher"
+msgstr "ç¼–è¾‘"
+
+#: admin/includes/teacher/index.php:124
+msgid "Add New Teacher"
+msgstr "ä¸�æ˜¯çš„å­¦ç”Ÿ"
+
+#: admin/includes/teacher/index.php:157 admin/includes/teacher/index.php:146
+#: template/teacher.php:27 template/teacher.php:34
+msgid "Teacher Email"
+msgstr "æ ¹æº�"
+
+#: admin/includes/transport/add-transport.php:27
+#: admin/includes/transport/index.php:106
+#: admin/includes/transport/index.php:119 template/transport.php:28
+#: template/transport.php:39
+msgid "Route Name"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/transport/add-transport.php:33
+#: admin/includes/transport/index.php:107
+#: admin/includes/transport/index.php:120
+msgid "Vehicle Identifier"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: admin/includes/transport/add-transport.php:39
+#: admin/includes/transport/index.php:108
+#: admin/includes/transport/index.php:121 template/transport.php:30
+#: template/transport.php:41
+msgid "Vehicle Registration Number"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: admin/includes/transport/add-transport.php:45
+#: admin/includes/transport/index.php:110
+#: admin/includes/transport/index.php:123 template/transport.php:31
+#: template/transport.php:42
+msgid "Driver Name"
+msgstr "å§“"
+
+#: admin/includes/transport/add-transport.php:51
+#: admin/includes/transport/index.php:111
+#: admin/includes/transport/index.php:124 template/transport.php:32
+#: template/transport.php:43
+msgid "Driver Phone Number"
+msgstr "ç”µè¯�"
+
+#: admin/includes/transport/add-transport.php:57
+msgid "Driver Address"
+msgstr "åœ°å�€"
+
+#: admin/includes/transport/add-transport.php:99
+#: admin/includes/transport/index.php:112
+#: admin/includes/transport/index.php:125 template/transport.php:33
+#: template/transport.php:44
+msgid "Route Fare"
+msgstr "é€šçŸ¥"
+
+#: admin/includes/transport/add-transport.php:106
+msgid "Save Transport"
+msgstr "äº¤é€š"
+
+#: admin/includes/transport/add-transport.php:106
+#: admin/includes/transport/index.php:89
+msgid "Add Transport"
+msgstr "äº¤é€š"
+
+#: admin/includes/transport/index.php:79 template/transport.php:13
+msgid "Transport List"
+msgstr "äº¤é€š"
+
+#: admin/includes/transport/index.php:83
+msgid "Edit Transport"
+msgstr "äº¤é€š"
+
+#: admin/includes/dasboard.php:113
+msgid "Noticeboard"
+msgstr "å¸ƒå‘Šæ �ä¸Š"
+
+#: admin/includes/dasboard.php:188
+msgid "Last Week Attendance Report"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/dasboard.php:219 admin/includes/dasboard.php:286
+msgid "There is not enough data to generate report"
+msgstr "æ²¡æœ‰è¶³å¤Ÿçš„æ•°æ�®æ�¥ç”Ÿæˆ�æŠ¥å‘Š"
+
+#: admin/includes/dasboard.php:256
+msgid "Last Month Attendance Report"
+msgstr "è€ƒå‹¤"
+
+#: admin/includes/general-settings.php:46
+msgid "School Name"
+msgstr "è¿™é‡Œçš„å­¦æ ¡æ ‡é¢˜"
+
+#: admin/includes/general-settings.php:52
+msgid "Starting Year"
+msgstr "å¼€å§‹çš„ä¸€å¹´"
+
+#: admin/includes/general-settings.php:58
+msgid "School Address"
+msgstr "åœ°å�€"
+
+#: admin/includes/general-settings.php:64
+msgid "Official Phone Number"
+msgstr "ç”µè¯�"
+
+#: admin/includes/general-settings.php:70
+msgid "Country"
+msgstr "å›½å®¶"
+
+#: admin/includes/general-settings.php:85
+msgid "School Logo"
+msgstr "è¿™é‡Œçš„å­¦æ ¡æ ‡é¢˜"
+
+#: admin/includes/general-settings.php:99
+msgid "Profile Cover Image"
+msgstr "æˆ‘çš„èµ„æ–™"
+
+#: admin/includes/dasboard.php:103
+msgid "Upload Cover Image"
+msgstr "ä¸Šä¼ å›¾ç‰‡"
+
+#: admin/includes/dasboard.php:116 template/account.php:228
+#: template/account.php:318 template/account.php:491 template/account.php:575
+msgid "Save"
+msgstr "ä¿�å­˜è€ƒè¯•"
+
+#: template/account.php:139
+msgid "user have not like this type data"
+msgstr "ç”¨æˆ·éƒ½ä¸�å–œæ¬¢è¿™ç§�ç±»åž‹æ•°æ�®"
+
+#: template/account.php:147 template/account.php:255 template/account.php:409
+#: template/account.php:512
+msgid "Account Settings"
+msgstr "è´¦æˆ·"
+
+#: template/account.php:160 template/account.php:422
+msgid "Password successfully change"
+msgstr "å¯†ç �"
+
+#: template/account.php:83 template/account.php:455
+msgid "Current Password"
+msgstr "å¯†ç �"
+
+#: template/account.php:203 template/account.php:466
+msgid "New Password"
+msgstr "å¯†ç �"
+
+#: template/account.php:213 template/account.php:476
+msgid "Conform Password"
+msgstr "å¯†ç �"
+
+#: template/attendance.php:36
+msgid "Current Date"
+msgstr "å§“å��"
+
+#: template/attendance.php:122
+msgid "Save  Attendance"
+msgstr "è€ƒå‹¤"
+
+#: template/child.php:117
+msgid "Child List"
+msgstr "å­�åˆ†ç±»"
+
+#: template/child.php:132 template/child.php:142
+msgid "Child Name"
+msgstr "å­�åˆ†ç±»"
+
+#: template/child.php:134 template/child.php:144
+msgid "Child Email"
+msgstr "æ ¹æº�"
+
+#: template/child.php:183 template/student.php:353 template/student.php:365
+#: template/teacher.php:171 admin/includes/student/index.php:405
+#: admin/includes/student/index.php:180 admin/includes/teacher/index.php:121
+#: admin/includes/teacher/index.php:303
+msgid "View Attendance"
+msgstr "è€ƒå‹¤"
+
+#: template/message.php:22
+msgid "View Message"
+msgstr "çµ�æžœ"
+
+#: template/new_message.php:146 template/sent.php:143
+msgid "Add New Subject"
+msgstr "æ·»åŠ è€ƒè¯•"
+
+#: template/schedule.php:10
+msgid "Class Timetable"
+msgstr "å¸¸è§„ç±»"
+
+#: template/transport.php:29 template/transport.php:40
+msgid "Number Of Vehicle"
+msgstr "æ‰‹æœºå�·ç �"
+
+#: smgt-function.php:436
+msgid "Monday"
+msgstr "æ˜ŸæœŸä¸€"
+
+#: smgt-function.php:437
+msgid "Tuesday"
+msgstr "æ˜ŸæœŸäºŒ"
+
+#: smgt-function.php:438
+msgid "Wednesday"
+msgstr "æ˜ŸæœŸä¸‰"
+
+#: smgt-function.php:439
+msgid "Thursday"
+msgstr "æ˜ŸæœŸå››"
+
+#: smgt-function.php:440
+msgid "Friday"
+msgstr "æ˜ŸæœŸäº”"
+
+#: smgt-function.php:441
+msgid "Saturday"
+msgstr "æ˜ŸæœŸå…­"
+
+#: smgt-function.php:442
+msgid "Sunday"
+msgstr "èµ°å…¥"
+
+#: template/payment.php:747
+msgid "View Expense"
+msgstr "çµ�æžœ"
+
+#: template/manage_marks:233 admin/includes/mark/index.php:237
+msgid "Select CSV file"
+msgstr "å…³è�”"
+
+#: template/manage_marks:233 admin/includes/mark/index.php:238
+msgid "Fill data from CSV File"
+msgstr "填写从CSV文件数据"
+
+#: template/manage_marks:233 admin/includes/mark/index.php:239
+msgid "CSV file Must have headers as follows"
+msgstr "CSV文件必须有标题如下"
+
+#: admin/includes/student/index.php:409
+msgid "Upload Student CSV"
+msgstr "å­¦å‘˜"

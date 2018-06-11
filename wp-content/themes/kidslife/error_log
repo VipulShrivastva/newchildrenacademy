@@ -1,0 +1,4 @@
+[03-Jan-2017 07:16:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/adminitdeal/public_html/newchildrenacademy.org/wp-content/themes/kidslife/index.php on line 1
+[04-Jan-2017 15:30:53 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/adminitdeal/public_html/newchildrenacademy.org/wp-content/themes/kidslife/index.php on line 1
+[20-Jan-2017 14:49:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/adminitdeal/public_html/newchildrenacademy.org/wp-content/themes/kidslife/index.php on line 1
+[30-Jun-2017 03:16:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/digidreams/public_html/newchildrenacademy.org/wp-content/themes/kidslife/index.php on line 1

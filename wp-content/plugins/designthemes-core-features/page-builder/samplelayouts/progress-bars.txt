@@ -1,0 +1,340 @@
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#008c99</div>
+                <div data-option_name="value" class="value dt_module_setting">50</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Books &amp; Reading</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#f27c7e</div>
+                <div data-option_name="value" class="value dt_module_setting">70</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Education Principles</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#acc158</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Lesson Plans</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#f3ca1d</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Work Life Balance</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#4c7296</div>
+                <div data-option_name="value" class="value dt_module_setting">60</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Creative Writing</div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#4cbcd4</div>
+                <div data-option_name="value" class="value dt_module_setting">50</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Books &amp; Reading</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#de81b8</div>
+                <div data-option_name="value" class="value dt_module_setting">70</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Education Principles</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#bc5393</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Lesson Plans</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#9ba0dc</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Work Life Balance</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#f7c44e</div>
+                <div data-option_name="value" class="value dt_module_setting">60</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Creative Writing</div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_clear dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="clear" data-placeholder="Clear" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Clear</span>
+    <div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Whitespace</span>
+    <div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#cf571b</div>
+                <div data-option_name="value" class="value dt_module_setting">50</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Books &amp; Reading</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#9b59b6</div>
+                <div data-option_name="value" class="value dt_module_setting">70</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Education Principles</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#7b4b4b</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Lesson Plans</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#ea9d5f</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Work Life Balance</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#4ecac2</div>
+                <div data-option_name="value" class="value dt_module_setting">60</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Creative Writing</div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span class="dt_module_name dt_column_name" style="opacity: 1;">1/2 Column</span>
+        <span class="dt_move" style="display: none;"></span>
+        <div class="dt_module_options">
+            <span class="dt_delete_column" title="Delete" style="display: block;"></span>
+            <span class="dt_clone_column" title="Clone" style="display: block;"></span>
+            <span class="dt_settings_arrow_column" title="Settings" style="display: block;"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div class="dt_modules_holder dt_modules_container ui-droppable ui-sortable" aria-disabled="false">
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#5f8789</div>
+                <div data-option_name="value" class="value dt_module_setting">50</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Books &amp; Reading</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#999999</div>
+                <div data-option_name="value" class="value dt_module_setting">70</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Education Principles</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#1abc9c</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Lesson Plans</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped-active</div>
+                <div data-option_name="color" class="color dt_module_setting">#ab998f</div>
+                <div data-option_name="value" class="value dt_module_setting">80</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Work Life Balance</div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_progressbar dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="progressbar" data-placeholder="Progress Bar" style="opacity: 1; z-index: 1;"><span class="ico-progressbar dt_icon"></span>
+            <span class="dt_module_name">Progress Bar</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="type" class="type dt_module_setting">progress-striped</div>
+                <div data-option_name="color" class="color dt_module_setting">#953d7d</div>
+                <div data-option_name="value" class="value dt_module_setting">60</div>
+                <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Creative Writing</div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>

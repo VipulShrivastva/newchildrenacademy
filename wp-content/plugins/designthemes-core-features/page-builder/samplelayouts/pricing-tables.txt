@@ -1,0 +1,144 @@
+<div class="dt_module dt_m_h2 dt_module_others  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="Heading 2" style="opacity: 1; z-index: 1;">
+    <span class="ico-headings dt_icon"></span>
+    <span class="dt_module_name">Heading 2</span>
+    <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings">
+        <div data-option_name="type" class="type dt_module_setting">type1</div>
+        <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Pricing Table I</div>
+        <div data-option_name="class" class="class dt_module_setting"></div>
+    </div>
+    <div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+</div>
+<div class="dt_module dt_m_pricing_table dt_module_general  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="pricing_table" data-placeholder="Pricing Table 1" style="opacity: 1; z-index: 1;"><span class="ico-pricingtable dt_icon"></span>
+    <span class="dt_module_name">Pricing Table 1</span>
+    <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings">
+        <div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content">
+            <p>[dt_sc_one_fourth first]
+                <br> [dt_sc_pricing_table_item type="type1" title="Painting" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/mickey.png" button_link="#" variation="mustard" currency="$" price="15" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+                <li>Junior Kids</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type1" title="Swimming" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/tweety.png" button_link="#" variation="green" currency="$" price="20" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+                <li>Junior Kids</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type1" title="Music" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/butterfly.png" button_link="#" variation="pink" currency="$" price="40" per="month" selected]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+                <li>Junior Kids</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type1" title="Base Ball" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/girl.png" button_link="#" variation="blue" currency="$" price="60" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+                <li>Junior Kids</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]</p>
+        </div>
+    </div>
+    <div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+</div>
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Whitespace</span>
+    <div class="dt_module_options"><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div class="dt_module dt_m_h2 dt_module_others  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="h2" data-placeholder="Heading 2" style="opacity: 1; z-index: 1;"><span class="ico-headings dt_icon"></span>
+    <span class="dt_module_name">Heading 2</span>
+    <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings">
+        <div data-option_name="type" class="type dt_module_setting">type1</div>
+        <div data-option_name="title_content" class="title_content dt_module_setting dtthemes_module_content">Pricing Table II</div>
+        <div data-option_name="class" class="class dt_module_setting"></div>
+    </div>
+    <div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+</div>
+<div class="dt_module dt_m_pricing_table_2 dt_module_general  ui-draggable ui-resizable ui-sortable-handle dt_first" data-name="pricing_table_2" data-placeholder="Pricing Table 2" style="opacity: 1; z-index: 1;"><span class="ico-pricingtable dt_icon"></span>
+    <span class="dt_module_name">Pricing Table 2</span>
+    <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+        <span class="dt_delete" title="Delete" style="display: block;"></span>
+        <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings">
+        <div data-option_name="pt_content" class="pt_content dt_module_setting dtthemes_module_content">
+            <p>[dt_sc_one_fourth first]
+                <br> [dt_sc_pricing_table_item type="type2" title="Summer Special" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/pricing-image1.jpg" button_link="#" variation="mustard" currency="$" price="15" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type2" title="Summer Special Plus" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/pricing-image2.jpg" button_link="#" variation="green" currency="$" price="20" per="month" selected]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type2" title="Summer Special Exclusive" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/pricing-image3.jpg" button_link="#" variation="pink" currency="$" price="25" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+                <br> [dt_sc_one_fourth]
+                <br> [dt_sc_pricing_table_item type="type2" title="Summer Special Ultra" button_text="View All" image="http://dummy.wedesignthemes.com/kidslife/wp-content/uploads/2014/12/pricing-image4.jpg" button_link="#" variation="blue" currency="$" price="30" per="month"]</p>
+            <ul>
+                <li>5 Innovations</li>
+                <li>Indoor Activity</li>
+                <li>Outdoor Activity</li>
+                <li>Study Schedule</li>
+            </ul>
+            <p>[/dt_sc_pricing_table_item]
+                <br> [/dt_sc_one_fourth]
+            </p>
+        </div>
+    </div>
+    <div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div>
+</div>

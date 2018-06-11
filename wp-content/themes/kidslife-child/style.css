@@ -1,0 +1,18 @@
+/*
+Theme Name:     kidslife Child
+Theme URI: 		http://wedesignthemes.com/themes/dt-kidslife/
+Author: 		the DesignThemes team
+Author URI: 	http://themeforest.net/user/designthemes
+Description:    Child theme for the DreamSpa theme powered by DesignThemes
+Template:       kidslife
+Version:        1.4.3
+*/
+@import url("../kidslife/style.css");
+.retina_logo
+{
+height:auto !important;
+}
+.logo {
+    
+    width: 10%;
+}

@@ -1,0 +1,323 @@
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Horizontal Tabs</h2>
+                </div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_tabs_horizontal dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="tabs_horizontal" data-placeholder="Tabs - Horizontal" style="opacity: 1; z-index: 1;"><span class="ico-tabs dt_icon"></span>
+            <span class="dt_module_name">Tabs - Horizontal</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="th_content" class="th_content dt_module_setting dtthemes_module_content">
+                    <p>[dt_sc_tab title="Tab 1"] Tab 1&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ex fb aute in esse eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex eafb aute in cd commodo consequat. [/dt_sc_tab] [dt_sc_tab title="Tab 2"] Tab 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. [/dt_sc_tab] [dt_sc_tab title="Tab 3"] Tab 3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. [/dt_sc_tab]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Vertical&nbsp;Tabs</h2></div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_tabs_vertical dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="tabs_vertical" data-placeholder="Tabs Vertical" style="opacity: 1; z-index: 1;"><span class="ico-tabs dt_icon"></span>
+            <span class="dt_module_name">Tabs Vertical</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="tv_content" class="tv_content dt_module_setting dtthemes_module_content">
+                    <h2>Vertical Tabs</h2>
+                    <p>[dt_sc_tab title="Tab 1"]
+                        <br> Tab 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ex fb aute in esse eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+                        <br> [/dt_sc_tab]
+                        <br> [dt_sc_tab title="Tab 2"]
+                        <br> Tab 2&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ex fb aute in esse eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+                        <br> [/dt_sc_tab]
+                        <br> [dt_sc_tab title="Tab 3"]
+                        <br> Tab 3&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ex fb aute in esse eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.
+                        <br> [/dt_sc_tab]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Whitespace</span>
+    <div class="dt_module_options"><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+        <span style="display: block;" class="dt_delete" title="Delete"></span>
+        <span style="display: block;" class="dt_clone_module" title="Clone"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Framed Accordion</h2></div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_doshortcode_accordion_framed dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="doshortcode_accordion_framed" data-placeholder="Accordion Framed" style="opacity: 1; z-index: 1;"><span class="ico-accordion dt_icon"></span>
+            <span class="dt_module_name">Accordion Framed</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <p>[dt_sc_accordion_group]
+                        <br> [dt_sc_toggle_framed title="Who we are?"]
+                        <br> Etori haum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est elige ndi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptasi ass umenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="Proud of what we do in academics"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="HOW do WE WORK?"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="Why do we do it?"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="What is the result?"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [/dt_sc_accordion_group]
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Standard Accordion</h2></div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_doshortcode_accordion_default dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="doshortcode_accordion_default" data-placeholder="Accordion Default" style="opacity: 1; z-index: 1;"><span class="ico-accordion dt_icon"></span>
+            <span class="dt_module_name">Accordion Default</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <p>[dt_sc_accordion_group]
+                        <br> [dt_sc_toggle title="Who we are"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="Proud of what we do in academics "]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="How do we work for strategic plans"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="Our overall action towards target"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="The outcome result of awesome performance"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="Let you know the merits of joining"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [/dt_sc_accordion_group]
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_hr_invisible dt_module_others dt_disable_resize  ui-draggable ui-sortable-handle dt_first" data-name="hr_invisible" data-placeholder="Whitespace" style="opacity: 1; z-index: 1;"><span class="ico-divider dt_icon"></span>
+    <span class="dt_module_name">Whitespace</span>
+    <div class="dt_module_options"><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+        <span style="display: block;" class="dt_delete" title="Delete"></span>
+        <span style="display: block;" class="dt_clone_module" title="Clone"></span></div>
+    <div class="dt_preview"></div>
+    <div class="dt_module_settings"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle dt_first" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Framed Toggle</h2></div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_doshortcode_toggleframed dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="doshortcode_toggleframed" data-placeholder="Toggle Framed" style="opacity: 1; z-index: 1;"><span class="ico-toggle dt_icon"></span>
+            <span class="dt_module_name">Toggle Framed</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="tf_content" class="tf_content dt_module_setting dtthemes_module_content">
+                    <p>[dt_sc_toggle_framed title="Who we are"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="Proud of what we do"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]
+                        <br> [dt_sc_toggle_framed title="How do we work"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]</p>
+                    <p>[dt_sc_toggle_framed title="Why do we do it"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle_framed]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
+<div class="dt_module dt_m_column dt_disable_resize dt_m_column_one_half ui-draggable dt_m_column_has_modules ui-sortable-handle" data-name="one_half" data-placeholder="1/2 Column" style="opacity: 1; z-index: 1;">
+    <div class="dt_module_controls">
+        <span style="opacity: 1;" class="dt_module_name dt_column_name">1/2 Column</span>
+        <span style="display: none;" class="dt_move"></span>
+        <div class="dt_module_options">
+            <span style="display: block;" class="dt_delete_column" title="Delete"></span>
+            <span style="display: block;" class="dt_clone_column" title="Clone"></span>
+            <span style="display: block;" class="dt_settings_arrow_column" title="Settings"></span>
+
+        </div>
+        <div class="dt_columndata_settings"></div>
+    </div>
+    <div aria-disabled="false" class="dt_modules_holder dt_modules_container ui-droppable ui-sortable">
+        <div class="dt_module dt_m_doshortcode_anycontent dt_module_general  ui-draggable ui-resizable dt_first ui-sortable-handle" data-name="doshortcode_anycontent" data-placeholder="Add Any Content Here" style="opacity: 1; z-index: 1;"><span class="ico-anycontent dt_icon"></span>
+            <span class="dt_module_name">Add Any Content Here</span>
+            <div class="dt_module_options"><span class="dt_move" style="display: block;"></span><span class="dt_showorhide dt_show" title="Show" style="display: block;"></span>
+                <span class="dt_delete" title="Delete" style="display: block;"></span>
+                <span class="dt_clone_module" title="Clone" style="display: block;"></span><span class="dt_settings_arrow_module" title="Settings" style="display: block;"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="acc_content" class="acc_content dt_module_setting dtthemes_module_content">
+                    <h2>Standard Toggle</h2></div>
+            </div>
+        </div>
+        <div class="dt_module dt_m_doshortcode_toggledefault dt_module_general ui-draggable dt_first ui-sortable-handle" data-name="doshortcode_toggledefault" data-placeholder="Toggle Default" style="opacity: 1; z-index: 1;"><span class="ico-toggle dt_icon"></span>
+            <span class="dt_module_name">Toggle Default</span>
+            <div class="dt_module_options"><span style="display: block;" class="dt_move"></span><span style="display: block;" class="dt_showorhide dt_show" title="Show"></span>
+                <span style="display: block;" class="dt_delete" title="Delete"></span>
+                <span style="display: block;" class="dt_clone_module" title="Clone"></span><span style="display: block;" class="dt_settings_arrow_module" title="Settings"></span></div>
+            <div class="dt_preview"></div>
+            <div class="dt_module_settings">
+                <div data-option_name="td_content" class="td_content dt_module_setting dtthemes_module_content">
+                    <p>[dt_sc_toggle title="Who we are"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="Proud of what we do in academics"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="How do we work for strategic plans"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="Our overall action towards target"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                        <br> [dt_sc_toggle title="The outcome result of awesome performance"]
+                        <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+                        <br> [/dt_sc_toggle]
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dt_show_modules_in_popup dt_popup_from_column" title="Add Module" style="display: inline-block;"></div>
+</div>
